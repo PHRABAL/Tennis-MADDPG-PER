@@ -2,6 +2,6 @@
 
 # DRL - Multi-Agent DDPG Algorithm w/Prioritized Experience Replay - Tennis Collaboration
 
-This implements the same Unity environment "Tennis" as in <a href="../DRL-Tennis">this repo</a>, but with Prioritized Experience Replay (PER).
+This implements the same Unity environment "Tennis" as in <a href="http://github.com/PHRABAL/DRL-Tennis">this repo</a>, but with Prioritized Experience Replay (PER).
 
 
